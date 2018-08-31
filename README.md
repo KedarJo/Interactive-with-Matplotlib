@@ -14,6 +14,6 @@ $ jupyter notebook
 ```
 This will open a browser based folder structure where you can open the ipynb file and step through the code
 
-4. Below is the visual created
+4. Below is the visual created. In Jupyter Notebook, this is interactive and shows how Bars change color as the threshold moves
 
-![Interactive]()
+![Interactive](https://github.com/KedarJo/Interactive-with-Matplotlib/blob/master/Interactive.png)
